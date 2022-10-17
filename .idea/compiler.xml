@@ -9,5 +9,8 @@
         <module name="tests-generation-basics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tests-generation-basics" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
