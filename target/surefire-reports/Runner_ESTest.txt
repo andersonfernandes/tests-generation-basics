@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: Calculator_ESTest
+Test set: Runner_ESTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.464 sec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
