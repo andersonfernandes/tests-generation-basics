@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tests-generation-basics.iml" filepath="$PROJECT_DIR$/tests-generation-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests-generation-tools.iml" filepath="$PROJECT_DIR$/tests-generation-tools.iml" />
     </modules>
   </component>
 </project>
