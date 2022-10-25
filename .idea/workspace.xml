@@ -24,7 +24,7 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -46,11 +46,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JAVA_HOME": "/home/anderson/.sdkman/candidates/java/current",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "cores_evosuite_param": "1",
+    "evosuite_gui_dialog_height": "628",
+    "evosuite_gui_dialog_width": "560",
+    "evosuite_jar_location": "",
+    "execution_mode": "JAR",
     "last_opened_file_path": "/home/anderson/Workspace/tests-generation-tools",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "memory_evosuite_param": "2000",
+    "mvn_location": "",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "target_folder_evosuite_param": "src/test/java/",
+    "time_evosuite_param": "3"
   }
 }]]></component>
   <component name="RunManager">
