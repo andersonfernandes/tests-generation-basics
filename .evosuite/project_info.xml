@@ -2,32 +2,32 @@
 <Project>
     <totalNumberOfTestableClasses>1</totalNumberOfTestableClasses>
     <cut>
-        <fullNameOfTargetClass>Calculator</fullNameOfTargetClass>
-        <fullNameOfTestSuite>Calculator_ESTest</fullNameOfTestSuite>
+        <fullNameOfTargetClass>InvalidOperation</fullNameOfTargetClass>
+        <fullNameOfTestSuite>InvalidOperation_ESTest</fullNameOfTestSuite>
         <generation>
             <id>0</id>
             <failed>false</failed>
             <modified>true</modified>
             <timeBudgetInSeconds>180</timeBudgetInSeconds>
             <memoryInMB>2000</memoryInMB>
-            <std_err_CLIENT>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_10_25_19_31_48/logs/Calculator/std_err_CLIENT.log</std_err_CLIENT>
-            <std_out_CLIENT>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_10_25_19_31_48/logs/Calculator/std_out_CLIENT.log</std_out_CLIENT>
-            <std_err_MASTER>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_10_25_19_31_48/logs/Calculator/std_err_MASTER.log</std_err_MASTER>
-            <std_out_MASTER>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_10_25_19_31_48/logs/Calculator/std_out_MASTER.log</std_out_MASTER>
+            <std_err_CLIENT>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_11_07_21_49_27/logs/InvalidOperation/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_11_07_21_49_27/logs/InvalidOperation/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_11_07_21_49_27/logs/InvalidOperation/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_11_07_21_49_27/logs/InvalidOperation/std_out_MASTER.log</std_out_MASTER>
             <suite>
-                <fullPathOfTestSuite>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_10_25_19_31_48/tests/Calculator_ESTest.java</fullPathOfTestSuite>
-                <numberOfTests>6</numberOfTests>
-                <totalNumberOfStatements>12</totalNumberOfStatements>
+                <fullPathOfTestSuite>/home/anderson/Workspace/tests-generation-tools/.evosuite/tmp_2022_11_07_21_49_27/tests/InvalidOperation_ESTest.java</fullPathOfTestSuite>
+                <numberOfTests>1</numberOfTests>
+                <totalNumberOfStatements>1</totalNumberOfStatements>
                 <totalEffortInSeconds>2</totalEffortInSeconds>
                 <coverage>
                     <criterion>LineCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111</coverageBitString>
+                    <coverageBitString>11</coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>BranchCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111</coverageBitString>
+                    <coverageBitString>1</coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>ExceptionCoverage</criterion>
@@ -37,27 +37,27 @@
                 <coverage>
                     <criterion>WeakMutationScore</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111111111111111111111111</coverageBitString>
+                    <coverageBitString></coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>OutputCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111111</coverageBitString>
+                    <coverageBitString></coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>MethodCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111</coverageBitString>
+                    <coverageBitString>1</coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>MethodNoExceptionCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111</coverageBitString>
+                    <coverageBitString>1</coverageBitString>
                 </coverage>
                 <coverage>
                     <criterion>CBranchCoverage</criterion>
                     <coverageValue>1.0</coverageValue>
-                    <coverageBitString>111</coverageBitString>
+                    <coverageBitString>1</coverageBitString>
                 </coverage>
             </suite>
         </generation>
